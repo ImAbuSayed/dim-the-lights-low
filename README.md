@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dim-the-lights-low/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dim The Lights Low](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dim-the-lights-low/) |
+| **Get License** | [Obtain a Music License for Dim The Lights Low](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dim-the-lights-low/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `544c6d5b41234e18f41fd96725549b9f9994305f4a36116705037602bedc3249` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
