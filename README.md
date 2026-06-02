@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dim the lights low, pull the shadows near
+> Everything we need is already right here
+> Dim the lights low, let the world disappear
+> Whisper every secret I've been waiting to hear
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
